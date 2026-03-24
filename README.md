@@ -30,18 +30,27 @@ Main capabilities:
 - Internet connection
 - Local write permission for your chosen download folder
 
+## Download
+
+**v1.0.0** — 2026-03-24
+
+| Installer | Download |
+|-----------|----------|
+| `setup.exe` (Recommended) | [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe) |
+| `YT-M Downloader.msi` | [⬇ Download YT-M Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
+
 ## Installation
 
 ### Option A (Recommended): `setup.exe`
 
-1. Download `setup.exe` from this repository.
+1. [Download `setup.exe`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe).
 2. Right-click the file and choose **Run as administrator** (recommended).
 3. Complete the installer wizard.
 4. Launch **Ultimate YT Downloader** from Start Menu or Desktop shortcut.
 
 ### Option B: `YT-M Downloader.msi`
 
-1. Download `YT-M Downloader.msi`.
+1. [Download `YT-M Downloader.msi`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi).
 2. Double-click to install (or deploy through enterprise software tools).
 3. Launch **Ultimate YT Downloader** after installation.
 
@@ -95,6 +104,8 @@ Latest stable release:
 - Version: `v1.0.0`
 - Date: `2026-03-24`
 - Status: First and currently only published app release
+- [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe)
+- [⬇ Download YT-M Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi)
 
 Release documentation:
 - `CHANGELOG.md` - Full change history

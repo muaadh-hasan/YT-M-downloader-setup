@@ -4,10 +4,12 @@
 - Publish Date: `2026-03-24`
 - Status: First and currently only published app release
 
-## Installers in Repository Root
+## Downloads
 
-- `setup.exe`
-- `YT-M Downloader.msi`
+| Installer | Download |
+|-----------|----------|
+| `setup.exe` (Recommended) | [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe) |
+| `YT-M Downloader.msi` | [⬇ Download YT-M Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
 
 ## Highlights
 
