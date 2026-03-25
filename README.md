@@ -7,7 +7,7 @@ This repository is for **app delivery only** (installer files and assets). Sourc
 ## Repository Contents
 
 - `setup.exe` - Recommended installer package
-- `YT-M Downloader.msi` - Alternative MSI installer package
+- `UYT Downloader.msi` - Alternative MSI installer package
 - `GUI YT-M.png` - GUI preview image
 - `releases/` - Published release index and per-version notes
 
@@ -37,7 +37,7 @@ Main capabilities:
 | Installer | Download |
 |-----------|----------|
 | `setup.exe` (Recommended) | [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe) |
-| `YT-M Downloader.msi` | [⬇ Download YT-M Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
+| `UYT Downloader.msi` | [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
 
 ## Installation
 
@@ -48,9 +48,9 @@ Main capabilities:
 3. Complete the installer wizard.
 4. Launch **Ultimate YT Downloader** from Start Menu or Desktop shortcut.
 
-### Option B: `YT-M Downloader.msi`
+### Option B: `UYT Downloader.msi`
 
-1. [Download `YT-M Downloader.msi`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi).
+1. [Download `UYT Downloader.msi`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi).
 2. Double-click to install (or deploy through enterprise software tools).
 3. Launch **Ultimate YT Downloader** after installation.
 
@@ -95,7 +95,7 @@ Generate a local SHA-256 hash in PowerShell:
 
 ```powershell
 Get-FileHash ".\setup.exe" -Algorithm SHA256
-Get-FileHash ".\YT-M Downloader.msi" -Algorithm SHA256
+Get-FileHash ".\UYT Downloader.msi" -Algorithm SHA256
 ```
 
 ## Releases
@@ -105,7 +105,7 @@ Latest stable release:
 - Date: `2026-03-24`
 - Status: First and currently only published app release
 - [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe)
-- [⬇ Download YT-M Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi)
+- [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi)
 
 Release documentation:
 - `CHANGELOG.md` - Full change history
