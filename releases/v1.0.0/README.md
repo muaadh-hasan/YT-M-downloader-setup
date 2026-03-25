@@ -9,7 +9,7 @@
 | Installer | Download |
 |-----------|----------|
 | `setup.exe` (Recommended) | [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe) |
-| `UYT Downloader.msi` | [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
+| `UYT Downloader.msi` | [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/UYT%20Downloader.msi) |
 
 ## Highlights
 

@@ -37,7 +37,7 @@ Main capabilities:
 | Installer | Download |
 |-----------|----------|
 | `setup.exe` (Recommended) | [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe) |
-| `UYT Downloader.msi` | [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi) |
+| `UYT Downloader.msi` | [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/UYT%20Downloader.msi) |
 
 ## Installation
 
@@ -50,7 +50,7 @@ Main capabilities:
 
 ### Option B: `UYT Downloader.msi`
 
-1. [Download `UYT Downloader.msi`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi).
+1. [Download `UYT Downloader.msi`](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/UYT%20Downloader.msi).
 2. Double-click to install (or deploy through enterprise software tools).
 3. Launch **Ultimate YT Downloader** after installation.
 
@@ -105,7 +105,7 @@ Latest stable release:
 - Date: `2026-03-24`
 - Status: First and currently only published app release
 - [⬇ Download setup.exe](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/setup.exe)
-- [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/YT-M%20Downloader.msi)
+- [⬇ Download UYT Downloader.msi](https://github.com/muaadh-hasan/YT-M-downloader-setup/raw/main/releases/v1.0.0/UYT%20Downloader.msi)
 
 Release documentation:
 - `CHANGELOG.md` - Full change history
